@@ -10,7 +10,7 @@
    - Open VS Code.
    - Click on **File → Open Folder**.
    - Select the folder `Lab-Assignment-KRMU-Web-Dev-1` that you just cloned or extracted.
-   - All files (index.html, README.md, instructions.txt, profile.jpg) should appear in the VS Code Explorer.
+   - All files (index.html, README.md, instructions.md, profile.jpg) should appear in the VS Code Explorer.
 
 3. **Edit this code**
    - You can edit this file in your VS Code editor, remove or add new section.
