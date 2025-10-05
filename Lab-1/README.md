@@ -50,3 +50,13 @@ lab-1/
 ├── instructions.txt
 |──profile.jpg
 
+
+---
+
+## 💬 Developer
+**Bhoomi Raghav**  
+Aspiring Developer 
+> “Why assume when we can experiment... think beyond X!”
+
+
+
