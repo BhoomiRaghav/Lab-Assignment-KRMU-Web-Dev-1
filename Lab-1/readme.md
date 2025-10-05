@@ -43,10 +43,10 @@ The project demonstrates my understanding of **semantic HTML structure**, access
 ---
 
 ## 🧩 Folder Structure
-lab1/
+lab-1/
 │
 ├── index.html
 ├── README.md
 ├── instructions.txt
-└── profile.jpg
+|──profile.jpg
 
