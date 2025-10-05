@@ -38,7 +38,7 @@ The project demonstrates my understanding of **semantic HTML structure**, access
 - No external links or new tabs (all navigation happens on same page)
 - Uses **semantic HTML5** elements for clarity and accessibility
 - **Clean indentation** and easy-to-read structure
-- Ready for future CSS enhancements
+
 
 ---
 
