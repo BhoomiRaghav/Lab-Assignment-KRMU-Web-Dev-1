@@ -47,7 +47,7 @@ Lab-Assignment-KRMU-Web-Dev-1/lab-1/
 │
 ├── index.html
 ├── README.md
-├── instructions.txt
+├── instructions.md
 └── profile.jpg
 
 
