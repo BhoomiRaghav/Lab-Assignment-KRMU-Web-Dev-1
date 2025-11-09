@@ -1,6 +1,6 @@
 # 🌸 Personal Portfolio – Lab 2: External CSS Styling
 
-### **Author:** Bhoomi Raghav (Boss Lady)
+### **Developer:** Bhoomi Raghav
 
 ---
 
@@ -33,13 +33,14 @@ It includes sections such as **Header**, **About**, **Projects**, **Skills**, an
 ---
 
 ## 🧩 File Structure
-
+```bash
 
 📁Lab 2
 │
 ├── index.html      # Main webpage structure
 ├── style.css       # External CSS stylesheet
 └── profile.jpg     # Profile image
+```
 
 
 
