@@ -34,12 +34,12 @@ It includes sections such as **Header**, **About**, **Projects**, **Skills**, an
 
 ## 🧩 File Structure
 
-```bash
+
 📁Lab 2
 │
 ├── index.html      # Main webpage structure
 ├── style.css       # External CSS stylesheet
-└── profile.jpg     # Profile image (optional)
+└── profile.jpg     # Profile image
 
 
 
